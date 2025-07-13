@@ -1,0 +1,25 @@
+name: RayosX2
+main: ry.theghostor.TemporalXRay
+version: 1.1
+api-version: 1.20
+description: Plugin para efecto temporal de rayos X en Minecraft, creado por TheGhostor.
+author: TheGhostor
+commands:
+  rayosx2reload:
+    description: Recarga la configuración y mensajes del plugin.
+    usage: /<command>
+    permission: rayosx2.reload
+    permission-message: No tienes permiso para usar este comando.
+permissions:
+  rayosx2.use:
+    description: Permite usar el efecto rayos X.
+    default: true
+  rayosx2.reload:
+    description: Permite recargar la configuración del plugin.
+    default: op
+  rayosx2.notify:
+    description: Recibe notificaciones de actualizaciones.
+    default: op
+  rayosx2.update:
+    description: Recibe mensajes de actualización de versión.
+    default: op

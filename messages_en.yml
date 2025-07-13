@@ -1,0 +1,5 @@
+messages:
+  no_permission: "§cYou do not have permission to use this command or effect."
+  cooldown: "§eWait %seconds% seconds to use the effect again."
+  effect_start: "§aYou have activated the temporary X-Ray effect."
+  effect_end: "§7The X-Ray effect has ended."

@@ -1,0 +1,5 @@
+messages:
+  no_permission: "§cNo tienes permiso para usar este comando o efecto."
+  cooldown: "§eEspera %seconds% segundos para volver a usar el efecto."
+  effect_start: "§aHas activado el efecto de Rayos X temporal."
+  effect_end: "§7El efecto de Rayos X ha terminado."

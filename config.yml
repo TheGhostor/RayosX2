@@ -1,0 +1,19 @@
+# Configuración para RayosX2
+
+item-trigger: GOLDEN_APPLE
+duration-seconds: 5
+cooldown-seconds: 30
+radius: 10
+
+valuable-blocks:
+  - DIAMOND_ORE
+  - DEEPSLATE_DIAMOND_ORE
+  - GOLD_ORE
+  - IRON_ORE
+  - EMERALD_ORE
+  - REDSTONE_ORE
+  - COAL_ORE
+  - COPPER_ORE
+  - LAPIS_ORE
+  - CHEST
+  - ANCIENT_DEBRIS
